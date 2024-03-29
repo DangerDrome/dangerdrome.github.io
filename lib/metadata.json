@@ -1,6 +1,6 @@
 {
   "vaultName": "The Danger Drome",
-  "lastExport": 1711709414316,
+  "lastExport": 1711709959279,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title",
   "useCustomHeadContent": false,
@@ -8,8 +8,8 @@
   "files": [
     "Jobs/X71/media/danger_logo_mini_2023.png",
     "Jobs/X71/media/danger_reel_2022_02_mailQuality.mp4",
-    "Jobs/X71/Index.md",
     "Jobs/X71/Overview.canvas",
+    "Index.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -23,9 +23,7 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "jobs/x71/media/danger_reel_2022_02_mailquality.mp4",
-    "jobs/x71/media/danger_logo_mini_2023.png"
+    "lib/media/874d8b8e340f75575caa.svg"
   ],
   "mainDependencies": [
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -51,85 +49,85 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
@@ -213,39 +211,27 @@
       "dependencies": []
     },
     "Jobs/X71/media/danger_reel_2022_02_mailQuality.mp4": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 23362833,
       "exportedPath": "Jobs/X71/media/danger_reel_2022_02_mailQuality.mp4",
       "dependencies": []
     },
-    "Jobs/X71/Index.md": {
-      "modifiedTime": 1711709414316,
-      "sourceSize": 75,
-      "exportedPath": "Jobs/X71/Index.html",
-      "dependencies": []
-    },
     "Jobs/X71/Overview.canvas": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 614,
       "exportedPath": "Jobs/X71/Overview.html",
       "dependencies": []
     },
-    "jobs/x71/media/danger_reel_2022_02_mailquality.mp4": {
-      "modifiedTime": 1711709173883,
-      "sourceSize": 23362833,
-      "exportedPath": "jobs/x71/media/danger_reel_2022_02_mailquality.mp4",
-      "dependencies": []
-    },
     "Jobs/X71/media/danger_logo_mini_2023.png": {
-      "modifiedTime": 1711709414316,
+      "modifiedTime": 1711709959279,
       "sourceSize": 62342,
       "exportedPath": "Jobs/X71/media/danger_logo_mini_2023.png",
       "dependencies": []
     },
-    "jobs/x71/media/danger_logo_mini_2023.png": {
-      "modifiedTime": 1711709173883,
-      "sourceSize": 62342,
-      "exportedPath": "jobs/x71/media/danger_logo_mini_2023.png",
+    "Index.md": {
+      "modifiedTime": 1711709959279,
+      "sourceSize": 75,
+      "exportedPath": "Index.html",
       "dependencies": []
     }
   }
