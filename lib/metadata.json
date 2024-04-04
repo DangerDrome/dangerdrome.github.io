@@ -1,11 +1,80 @@
 {
   "vaultName": "The Danger Drome",
-  "lastExport": 1712194575350,
+  "lastExport": 1712194770348,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title minimal-default-light colorful-headings colorful-active links-int-on links-ext-on full-width-media img-grid minimal-line-nums minimal-readable is-fullscreen minimal-dracula-dark chart-max table-max iframe-100",
   "useCustomHeadContent": false,
   "useCustomFavicon": true,
   "files": [
+    "_db/_Classes/Global_Class.md",
+    "_db/_Classes/Shot_Class.md",
+    "_db/_Classes/Task_Class.md",
+    "_db/_Classes/Version_Class.md",
+    "_db/_Templates/media/danger_logo_regular.jpg",
+    "_db/_Templates/media/favicon.ico",
+    "_db/_Templates/media/logo_mini.png",
+    "_db/_Templates/media/logo_mini_invert.png",
+    "_db/_Templates/media/logo_mini_invert_icon.ico",
+    "_db/_Templates/media/splash.jpg",
+    "_db/_Templates/Charts_01.md",
+    "_db/_Templates/Charts_02.md",
+    "_db/_Templates/Charts_03.md",
+    "_db/_Templates/Dataviewjs_01.md",
+    "_db/_Templates/Dataviewjs_02.md",
+    "_db/_Templates/Dataviewjs_03.md",
+    "_db/_Templates/External_embed.md",
+    "_db/_Templates/global_vars.md",
+    "_db/_Templates/Heatmap.md",
+    "_db/_Templates/Shot_template.md",
+    "_db/_Templates/Task_template.md",
+    "_db/_Templates/Version_template.md",
+    "_db/_tests/media/Pasted image 20230814225334.png",
+    "_db/_tests/media/Pasted image 20230814225752.png",
+    "_db/_tests/_index.md",
+    "_db/_tests/Gantt.md",
+    "_db/_tests/Gantt_02.md",
+    "_db/_tests/Ideas.canvas",
+    "_db/_tests/inline_python.md",
+    "_db/_tests/Shot.md",
+    "_db/_tests/Shot_assets.canvas",
+    "_db/Show/ep001/sq001/sh001/Tasks/Anim.md",
+    "_db/Show/ep001/sq001/sh001/Tasks/Comp.md",
+    "_db/Show/ep001/sq001/sh001/Tasks/Fx.md",
+    "_db/Show/ep001/sq001/sh001/Tasks/Layout.md",
+    "_db/Show/ep001/sq001/sh001/Tasks/Light.md",
+    "_db/Show/ep001/sq001/sh001/Tasks/Model.md",
+    "_db/Show/ep001/sq001/sh001/Tasks/Tasks.md",
+    "_db/Show/ep001/sq001/sh001/Versions/Versions.md",
+    "_db/Show/ep001/sq001/sh001/WorkFiles/_index.md",
+    "_db/Show/ep001/sq001/sh001/WorkFiles/WorkFiles.md",
+    "_db/Show/ep001/sq001/sh001/sh001.md",
+    "_db/Show/ep001/sq001/sh001/sh001_board.md",
+    "_db/Show/ep001/sq001/sh001/shot_thumb.jpg",
+    "_db/Show/ep001/sq001/sh002/Tasks/Anim.md",
+    "_db/Show/ep001/sq001/sh002/Tasks/Comp.md",
+    "_db/Show/ep001/sq001/sh002/Tasks/Fx.md",
+    "_db/Show/ep001/sq001/sh002/Tasks/Layout.md",
+    "_db/Show/ep001/sq001/sh002/Tasks/Light.md",
+    "_db/Show/ep001/sq001/sh002/Tasks/Model.md",
+    "_db/Show/ep001/sq001/sh002/Tasks/Tasks.md",
+    "_db/Show/ep001/sq001/sh002/Versions/Versions.md",
+    "_db/Show/ep001/sq001/sh002/WorkFiles/_index.md",
+    "_db/Show/ep001/sq001/sh002/WorkFiles/WorkFiles.md",
+    "_db/Show/ep001/sq001/sh002/sh002.md",
+    "_db/Show/ep001/sq001/sh002/Shot_board.md",
+    "_db/Show/ep001/sq001/sh002/Shot_thumb.jpg",
+    "_db/Show/Dashboard.canvas",
+    "_db/Show/Show.md",
+    "_db/Show/Show.canvas",
+    "_db/Show/Show_board.md",
+    "_db/Show/Untitled.loom",
+    "_db/_db.md",
+    "_db/danger_logo.png",
+    "_db/Database.md",
+    "_db/desktop.ini",
+    "_db/directus_schema.canvas",
+    "_db/Kuma.md",
+    "_db/Pi-Hole.md",
     "Ai-stuff/index.md",
     "Character-stuff/index.md",
     "Fx-stuff/Shots/sh000/anim/anim_index.md",
@@ -21,6 +90,8 @@
     "index.md",
     "Overview.canvas",
     "lib/media/danger_logo_regular.jpg",
+    "lib/media/shot_thumb.jpg",
+    "lib/media/logo_mini.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -96,175 +167,175 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1712194575350,
-      "sourceSize": 27306,
+      "modifiedTime": 1712194770348,
+      "sourceSize": 98195,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 62342,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1712194575350,
-      "sourceSize": 851,
+      "modifiedTime": 1712194770348,
+      "sourceSize": 4635,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 157722,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 2104,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 369,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -344,13 +415,13 @@
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 206737,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 34,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
@@ -370,13 +441,13 @@
       ]
     },
     "lib/media/danger_logo_regular.jpg": {
-      "modifiedTime": 1712194575350,
+      "modifiedTime": 1712194770348,
       "sourceSize": 85310,
       "exportedPath": "lib/media/danger_logo_regular.jpg",
       "dependencies": []
     },
     "_db/_templates/media/danger_logo_regular.jpg": {
-      "modifiedTime": 1712194107194,
+      "modifiedTime": 1712194770348,
       "sourceSize": 85310,
       "exportedPath": "_db/_templates/media/danger_logo_regular.jpg",
       "dependencies": []
@@ -391,6 +462,485 @@
       "modifiedTime": 1712194575350,
       "sourceSize": 68,
       "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "_db/_Classes/Global_Class.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 93,
+      "exportedPath": "_db/_classes/global_class.html",
+      "dependencies": []
+    },
+    "_db/_Classes/Shot_Class.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 99,
+      "exportedPath": "_db/_classes/shot_class.html",
+      "dependencies": []
+    },
+    "_db/_Classes/Task_Class.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 313,
+      "exportedPath": "_db/_classes/task_class.html",
+      "dependencies": []
+    },
+    "_db/_Classes/Version_Class.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 97,
+      "exportedPath": "_db/_classes/version_class.html",
+      "dependencies": []
+    },
+    "_db/_Templates/media/danger_logo_regular.jpg": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 85310,
+      "exportedPath": "_db/_templates/media/danger_logo_regular.jpg",
+      "dependencies": []
+    },
+    "_db/_Templates/media/favicon.ico": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 270622,
+      "exportedPath": "_db/_templates/media/favicon.ico",
+      "dependencies": []
+    },
+    "_db/_Templates/media/logo_mini.png": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 25076,
+      "exportedPath": "_db/_templates/media/logo_mini.png",
+      "dependencies": []
+    },
+    "_db/_Templates/media/logo_mini_invert.png": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 25299,
+      "exportedPath": "_db/_templates/media/logo_mini_invert.png",
+      "dependencies": []
+    },
+    "_db/_Templates/media/logo_mini_invert_icon.ico": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 26493,
+      "exportedPath": "_db/_templates/media/logo_mini_invert_icon.ico",
+      "dependencies": []
+    },
+    "_db/_Templates/media/splash.jpg": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 10974,
+      "exportedPath": "_db/_templates/media/splash.jpg",
+      "dependencies": []
+    },
+    "_db/_Templates/Charts_01.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1640,
+      "exportedPath": "_db/_templates/charts_01.html",
+      "dependencies": []
+    },
+    "_db/_Templates/Charts_02.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1078,
+      "exportedPath": "_db/_templates/charts_02.html",
+      "dependencies": []
+    },
+    "_db/_Templates/Charts_03.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1448,
+      "exportedPath": "_db/_templates/charts_03.html",
+      "dependencies": []
+    },
+    "_db/_Templates/Dataviewjs_01.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 2298,
+      "exportedPath": "_db/_templates/dataviewjs_01.html",
+      "dependencies": [
+        "_db/_templates/media/danger_logo_regular.jpg",
+        "_db/_templates/media/splash.jpg"
+      ]
+    },
+    "_db/_Templates/Dataviewjs_02.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1645,
+      "exportedPath": "_db/_templates/dataviewjs_02.html",
+      "dependencies": []
+    },
+    "_db/_Templates/Dataviewjs_03.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 2002,
+      "exportedPath": "_db/_templates/dataviewjs_03.html",
+      "dependencies": []
+    },
+    "_db/_Templates/External_embed.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 68,
+      "exportedPath": "_db/_templates/external_embed.html",
+      "dependencies": []
+    },
+    "_db/_Templates/global_vars.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 479,
+      "exportedPath": "_db/_templates/global_vars.html",
+      "dependencies": []
+    },
+    "_db/_Templates/Heatmap.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 3266,
+      "exportedPath": "_db/_templates/heatmap.html",
+      "dependencies": []
+    },
+    "_db/_Templates/Shot_template.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 2315,
+      "exportedPath": "_db/_templates/shot_template.html",
+      "dependencies": []
+    },
+    "_db/_Templates/Task_template.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 2913,
+      "exportedPath": "_db/_templates/task_template.html",
+      "dependencies": []
+    },
+    "_db/_Templates/Version_template.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 2950,
+      "exportedPath": "_db/_templates/version_template.html",
+      "dependencies": []
+    },
+    "_db/_tests/media/Pasted image 20230814225334.png": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 585468,
+      "exportedPath": "_db/_tests/media/pasted-image-20230814225334.png",
+      "dependencies": []
+    },
+    "_db/_tests/media/Pasted image 20230814225752.png": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1419895,
+      "exportedPath": "_db/_tests/media/pasted-image-20230814225752.png",
+      "dependencies": []
+    },
+    "_db/_tests/_index.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1213,
+      "exportedPath": "_db/_tests/_index.html",
+      "dependencies": []
+    },
+    "_db/_tests/Gantt.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 3750,
+      "exportedPath": "_db/_tests/gantt.html",
+      "dependencies": []
+    },
+    "_db/_tests/Gantt_02.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 5809,
+      "exportedPath": "_db/_tests/gantt_02.html",
+      "dependencies": []
+    },
+    "_db/_tests/Ideas.canvas": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 5564,
+      "exportedPath": "_db/_tests/ideas.html",
+      "dependencies": [
+        "_db/_tests/media/pasted-image-20230814225334.png",
+        "_db/_tests/media/pasted-image-20230814225752.png"
+      ]
+    },
+    "_db/_tests/inline_python.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 65,
+      "exportedPath": "_db/_tests/inline_python.html",
+      "dependencies": []
+    },
+    "_db/_tests/Shot.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1104,
+      "exportedPath": "_db/_tests/shot.html",
+      "dependencies": [
+        "lib/media/danger_logo_regular.jpg"
+      ]
+    },
+    "_db/_tests/Shot_assets.canvas": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 3822,
+      "exportedPath": "_db/_tests/shot_assets.html",
+      "dependencies": [
+        "lib/media/danger_logo_regular.jpg"
+      ]
+    },
+    "_db/Show/ep001/sq001/sh001/Tasks/Anim.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 3076,
+      "exportedPath": "_db/show/ep001/sq001/sh001/tasks/anim.html",
+      "dependencies": [
+        "lib/media/shot_thumb.jpg"
+      ]
+    },
+    "_db/Show/ep001/sq001/sh001/Tasks/Comp.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1332,
+      "exportedPath": "_db/show/ep001/sq001/sh001/tasks/comp.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh001/Tasks/Fx.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1327,
+      "exportedPath": "_db/show/ep001/sq001/sh001/tasks/fx.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh001/Tasks/Layout.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1334,
+      "exportedPath": "_db/show/ep001/sq001/sh001/tasks/layout.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh001/Tasks/Light.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1334,
+      "exportedPath": "_db/show/ep001/sq001/sh001/tasks/light.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh001/Tasks/Model.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1343,
+      "exportedPath": "_db/show/ep001/sq001/sh001/tasks/model.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh001/Tasks/Tasks.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1010,
+      "exportedPath": "_db/show/ep001/sq001/sh001/tasks/tasks.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh001/Versions/Versions.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 2640,
+      "exportedPath": "_db/show/ep001/sq001/sh001/versions/versions.html",
+      "dependencies": [
+        "lib/media/shot_thumb.jpg"
+      ]
+    },
+    "_db/Show/ep001/sq001/sh001/WorkFiles/_index.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1207,
+      "exportedPath": "_db/show/ep001/sq001/sh001/workfiles/_index.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh001/WorkFiles/WorkFiles.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1221,
+      "exportedPath": "_db/show/ep001/sq001/sh001/workfiles/workfiles.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh001/sh001.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 2168,
+      "exportedPath": "_db/show/ep001/sq001/sh001/sh001.html",
+      "dependencies": [
+        "_db/show/ep001/sq001/sh001/shot_thumb.jpg"
+      ]
+    },
+    "_db/Show/ep001/sq001/sh001/sh001_board.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 278,
+      "exportedPath": "_db/show/ep001/sq001/sh001/sh001_board.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh001/shot_thumb.jpg": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 10974,
+      "exportedPath": "_db/show/ep001/sq001/sh001/shot_thumb.jpg",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh002/Tasks/Anim.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1325,
+      "exportedPath": "_db/show/ep001/sq001/sh002/tasks/anim.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh002/Tasks/Comp.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1326,
+      "exportedPath": "_db/show/ep001/sq001/sh002/tasks/comp.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh002/Tasks/Fx.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1320,
+      "exportedPath": "_db/show/ep001/sq001/sh002/tasks/fx.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh002/Tasks/Layout.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1329,
+      "exportedPath": "_db/show/ep001/sq001/sh002/tasks/layout.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh002/Tasks/Light.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1327,
+      "exportedPath": "_db/show/ep001/sq001/sh002/tasks/light.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh002/Tasks/Model.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1337,
+      "exportedPath": "_db/show/ep001/sq001/sh002/tasks/model.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh002/Tasks/Tasks.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1221,
+      "exportedPath": "_db/show/ep001/sq001/sh002/tasks/tasks.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh002/Versions/Versions.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1221,
+      "exportedPath": "_db/show/ep001/sq001/sh002/versions/versions.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh002/WorkFiles/_index.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1207,
+      "exportedPath": "_db/show/ep001/sq001/sh002/workfiles/_index.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh002/WorkFiles/WorkFiles.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1221,
+      "exportedPath": "_db/show/ep001/sq001/sh002/workfiles/workfiles.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh002/sh002.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1114,
+      "exportedPath": "_db/show/ep001/sq001/sh002/sh002.html",
+      "dependencies": [
+        "_db/show/ep001/sq001/sh002/shot_thumb.jpg"
+      ]
+    },
+    "_db/Show/ep001/sq001/sh002/Shot_board.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 278,
+      "exportedPath": "_db/show/ep001/sq001/sh002/shot_board.html",
+      "dependencies": []
+    },
+    "_db/Show/ep001/sq001/sh002/Shot_thumb.jpg": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 10974,
+      "exportedPath": "_db/show/ep001/sq001/sh002/shot_thumb.jpg",
+      "dependencies": []
+    },
+    "_db/Show/Dashboard.canvas": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 5552,
+      "exportedPath": "_db/show/dashboard.html",
+      "dependencies": [
+        "lib/media/logo_mini.png"
+      ]
+    },
+    "_db/Show/Show.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1293,
+      "exportedPath": "_db/show/show.html",
+      "dependencies": []
+    },
+    "_db/Show/Show.canvas": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1236,
+      "exportedPath": "_db/show/show.html",
+      "dependencies": [
+        "_db/show/ep001/sq001/sh001/shot_thumb.jpg",
+        "_db/show/ep001/sq001/sh002/shot_thumb.jpg"
+      ]
+    },
+    "_db/Show/Show_board.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 254,
+      "exportedPath": "_db/show/show_board.html",
+      "dependencies": []
+    },
+    "_db/Show/Untitled.loom": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 6013,
+      "exportedPath": "_db/show/untitled.loom",
+      "dependencies": []
+    },
+    "_db/_db.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1477,
+      "exportedPath": "_db/_db.html",
+      "dependencies": []
+    },
+    "_db/danger_logo.png": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 62342,
+      "exportedPath": "_db/danger_logo.png",
+      "dependencies": []
+    },
+    "_db/Database.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 52,
+      "exportedPath": "_db/database.html",
+      "dependencies": []
+    },
+    "_db/desktop.ini": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 244,
+      "exportedPath": "_db/desktop.ini",
+      "dependencies": []
+    },
+    "_db/directus_schema.canvas": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 3170,
+      "exportedPath": "_db/directus_schema.html",
+      "dependencies": []
+    },
+    "_db/Kuma.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 101,
+      "exportedPath": "_db/kuma.html",
+      "dependencies": []
+    },
+    "_db/Pi-Hole.md": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 78,
+      "exportedPath": "_db/pi-hole.html",
+      "dependencies": []
+    },
+    "_db/_templates/media/splash.jpg": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 10974,
+      "exportedPath": "_db/_templates/media/splash.jpg",
+      "dependencies": []
+    },
+    "_db/_tests/media/pasted-image-20230814225334.png": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 585468,
+      "exportedPath": "_db/_tests/media/pasted-image-20230814225334.png",
+      "dependencies": []
+    },
+    "_db/_tests/media/pasted-image-20230814225752.png": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 1419895,
+      "exportedPath": "_db/_tests/media/pasted-image-20230814225752.png",
+      "dependencies": []
+    },
+    "lib/media/shot_thumb.jpg": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 10974,
+      "exportedPath": "lib/media/shot_thumb.jpg",
+      "dependencies": []
+    },
+    "_db/show/ep001/sq001/sh001/shot_thumb.jpg": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 10974,
+      "exportedPath": "_db/show/ep001/sq001/sh001/shot_thumb.jpg",
+      "dependencies": []
+    },
+    "_db/show/ep001/sq001/sh002/shot_thumb.jpg": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 10974,
+      "exportedPath": "_db/show/ep001/sq001/sh002/shot_thumb.jpg",
+      "dependencies": []
+    },
+    "lib/media/logo_mini.png": {
+      "modifiedTime": 1712194770348,
+      "sourceSize": 25076,
+      "exportedPath": "lib/media/logo_mini.png",
       "dependencies": []
     }
   }
