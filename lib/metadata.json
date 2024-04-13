@@ -1,6 +1,6 @@
 {
   "vaultName": "The Danger Drome",
-  "lastExport": 1713005407080,
+  "lastExport": 1713005658076,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark native-scrollbars show-inline-title minimal-gruvbox-dark minimal-default-light borders-none colorful-active links-int-on links-ext-on full-width-media img-grid minimal-line-nums minimal-readable chart-max table-max img-wide iframe-100 map-wide is-fullscreen",
   "useCustomHeadContent": false,
@@ -93,6 +93,7 @@
     "Network/overview.canvas",
     "pages/contents.md",
     "Unreal-Stuff/commands.md",
+    "Unreal-Stuff/Console_Variables.html",
     "Unreal-Stuff/index.md",
     "index.md",
     "Overview.canvas",
@@ -171,97 +172,97 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1713005407080,
-      "sourceSize": 107961,
+      "modifiedTime": 1713005658076,
+      "sourceSize": 108718,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
@@ -297,13 +298,13 @@
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 62342,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
@@ -315,37 +316,37 @@
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 157722,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 2104,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 369,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Character-stuff/index.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 23,
       "exportedPath": "character-stuff/index.html",
       "dependencies": []
     },
     "Overview.canvas": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1849,
       "exportedPath": "overview.html",
       "dependencies": [
@@ -353,31 +354,31 @@
       ]
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 206737,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 7688,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "Ai-stuff/index.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 22,
       "exportedPath": "ai-stuff/index.html",
       "dependencies": []
     },
     "lib/media/danger_logo_regular.jpg": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 85310,
       "exportedPath": "lib/media/danger_logo_regular.jpg",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 174,
       "exportedPath": "index.html",
       "dependencies": [
@@ -385,25 +386,25 @@
       ]
     },
     "lib/media/shot_thumb.jpg": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 10974,
       "exportedPath": "lib/media/shot_thumb.jpg",
       "dependencies": []
     },
     "lib/media/logo_mini.png": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 25076,
       "exportedPath": "lib/media/logo_mini.png",
       "dependencies": []
     },
     "Houdini-stuff/Shots/sh000/anim/anim_index.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 22,
       "exportedPath": "houdini-stuff/shots/sh000/anim/anim_index.html",
       "dependencies": []
     },
     "Houdini-stuff/Shots/sh000/comp/comp_index.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 51,
       "exportedPath": "houdini-stuff/shots/sh000/comp/comp_index.html",
       "dependencies": [
@@ -411,31 +412,31 @@
       ]
     },
     "Houdini-stuff/Shots/sh000/comp/x71_sh000_comp_v001.mp4": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 33963390,
       "exportedPath": "houdini-stuff/shots/sh000/comp/x71_sh000_comp_v001.mp4",
       "dependencies": []
     },
     "Houdini-stuff/Shots/sh000/fx/fx_index.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 22,
       "exportedPath": "houdini-stuff/shots/sh000/fx/fx_index.html",
       "dependencies": []
     },
     "Houdini-stuff/Shots/sh000/layout/layout_index.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 22,
       "exportedPath": "houdini-stuff/shots/sh000/layout/layout_index.html",
       "dependencies": []
     },
     "Houdini-stuff/Shots/sh000/index.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 105,
       "exportedPath": "houdini-stuff/shots/sh000/index.html",
       "dependencies": []
     },
     "Houdini-stuff/Shots/sh000/sh000.canvas": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1696,
       "exportedPath": "houdini-stuff/shots/sh000/sh000.html",
       "dependencies": [
@@ -444,25 +445,25 @@
       ]
     },
     "Houdini-stuff/Shots/sh000/sh000_Kanban.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 223,
       "exportedPath": "houdini-stuff/shots/sh000/sh000_kanban.html",
       "dependencies": []
     },
     "Houdini-stuff/index.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 21,
       "exportedPath": "houdini-stuff/index.html",
       "dependencies": []
     },
     "houdini-stuff/shots/sh000/comp/x71_sh000_comp_v001.mp4": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 33963390,
       "exportedPath": "houdini-stuff/shots/sh000/comp/x71_sh000_comp_v001.mp4",
       "dependencies": []
     },
     "Network/overview.canvas": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 2253,
       "exportedPath": "network/overview.html",
       "dependencies": [
@@ -470,61 +471,61 @@
       ]
     },
     "Network/github.io.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 167,
       "exportedPath": "network/github.io.html",
       "dependencies": []
     },
     "Chats/New Chat.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 67,
       "exportedPath": "chats/new-chat.html",
       "dependencies": []
     },
     "logseq/config.edn": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 15254,
       "exportedPath": "logseq/config.edn",
       "dependencies": []
     },
     "logseq/custom.css": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 0,
       "exportedPath": "logseq/custom.css",
       "dependencies": []
     },
     "pages/contents.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1,
       "exportedPath": "pages/contents.html",
       "dependencies": []
     },
     "db/Classes/Global_Class.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 93,
       "exportedPath": "db/classes/global_class.html",
       "dependencies": []
     },
     "db/Classes/Shot_Class.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 99,
       "exportedPath": "db/classes/shot_class.html",
       "dependencies": []
     },
     "db/Classes/Task_Class.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 313,
       "exportedPath": "db/classes/task_class.html",
       "dependencies": []
     },
     "db/Classes/Version_Class.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 97,
       "exportedPath": "db/classes/version_class.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh001/Tasks/Anim.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 3099,
       "exportedPath": "db/show/ep001/sq001/sh001/tasks/anim.html",
       "dependencies": [
@@ -532,43 +533,43 @@
       ]
     },
     "db/Show/ep001/sq001/sh001/Tasks/Comp.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1332,
       "exportedPath": "db/show/ep001/sq001/sh001/tasks/comp.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh001/Tasks/Fx.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1327,
       "exportedPath": "db/show/ep001/sq001/sh001/tasks/fx.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh001/Tasks/Layout.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1334,
       "exportedPath": "db/show/ep001/sq001/sh001/tasks/layout.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh001/Tasks/Light.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1334,
       "exportedPath": "db/show/ep001/sq001/sh001/tasks/light.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh001/Tasks/Model.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1343,
       "exportedPath": "db/show/ep001/sq001/sh001/tasks/model.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh001/Tasks/Tasks.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1202,
       "exportedPath": "db/show/ep001/sq001/sh001/tasks/tasks.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh001/Versions/Versions.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 2686,
       "exportedPath": "db/show/ep001/sq001/sh001/versions/versions.html",
       "dependencies": [
@@ -576,19 +577,19 @@
       ]
     },
     "db/Show/ep001/sq001/sh001/WorkFiles/_index.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1207,
       "exportedPath": "db/show/ep001/sq001/sh001/workfiles/_index.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh001/WorkFiles/WorkFiles.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1221,
       "exportedPath": "db/show/ep001/sq001/sh001/workfiles/workfiles.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh001/sh001.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 2220,
       "exportedPath": "db/show/ep001/sq001/sh001/sh001.html",
       "dependencies": [
@@ -596,79 +597,79 @@
       ]
     },
     "db/Show/ep001/sq001/sh001/sh001_board.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 434,
       "exportedPath": "db/show/ep001/sq001/sh001/sh001_board.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh001/shot_thumb.jpg": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 10974,
       "exportedPath": "db/show/ep001/sq001/sh001/shot_thumb.jpg",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh002/Tasks/Anim.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1325,
       "exportedPath": "db/show/ep001/sq001/sh002/tasks/anim.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh002/Tasks/Comp.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1326,
       "exportedPath": "db/show/ep001/sq001/sh002/tasks/comp.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh002/Tasks/Fx.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1320,
       "exportedPath": "db/show/ep001/sq001/sh002/tasks/fx.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh002/Tasks/Layout.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1329,
       "exportedPath": "db/show/ep001/sq001/sh002/tasks/layout.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh002/Tasks/Light.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1327,
       "exportedPath": "db/show/ep001/sq001/sh002/tasks/light.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh002/Tasks/Model.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1337,
       "exportedPath": "db/show/ep001/sq001/sh002/tasks/model.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh002/Tasks/Tasks.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1221,
       "exportedPath": "db/show/ep001/sq001/sh002/tasks/tasks.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh002/Versions/Versions.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1221,
       "exportedPath": "db/show/ep001/sq001/sh002/versions/versions.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh002/WorkFiles/_index.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1207,
       "exportedPath": "db/show/ep001/sq001/sh002/workfiles/_index.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh002/WorkFiles/WorkFiles.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1221,
       "exportedPath": "db/show/ep001/sq001/sh002/workfiles/workfiles.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh002/sh002.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1140,
       "exportedPath": "db/show/ep001/sq001/sh002/sh002.html",
       "dependencies": [
@@ -676,19 +677,19 @@
       ]
     },
     "db/Show/ep001/sq001/sh002/Shot_board.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 434,
       "exportedPath": "db/show/ep001/sq001/sh002/shot_board.html",
       "dependencies": []
     },
     "db/Show/ep001/sq001/sh002/Shot_thumb.jpg": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 10974,
       "exportedPath": "db/show/ep001/sq001/sh002/shot_thumb.jpg",
       "dependencies": []
     },
     "db/Show/Dashboard.canvas": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 5537,
       "exportedPath": "db/show/dashboard.html",
       "dependencies": [
@@ -696,13 +697,13 @@
       ]
     },
     "db/Show/Show.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1875,
       "exportedPath": "db/show/show.html",
       "dependencies": []
     },
     "db/Show/Show.canvas": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1233,
       "exportedPath": "db/show/show.html",
       "dependencies": [
@@ -711,79 +712,79 @@
       ]
     },
     "db/Show/Show_board.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 254,
       "exportedPath": "db/show/show_board.html",
       "dependencies": []
     },
     "db/Show/Untitled.loom": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 6013,
       "exportedPath": "db/show/untitled.loom",
       "dependencies": []
     },
     "db/Templates/media/danger_logo.png": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 62342,
       "exportedPath": "db/templates/media/danger_logo.png",
       "dependencies": []
     },
     "db/Templates/media/danger_logo_regular.jpg": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 85310,
       "exportedPath": "db/templates/media/danger_logo_regular.jpg",
       "dependencies": []
     },
     "db/Templates/media/favicon.ico": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 270622,
       "exportedPath": "db/templates/media/favicon.ico",
       "dependencies": []
     },
     "db/Templates/media/logo_mini.png": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 25076,
       "exportedPath": "db/templates/media/logo_mini.png",
       "dependencies": []
     },
     "db/Templates/media/logo_mini_invert.png": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 25299,
       "exportedPath": "db/templates/media/logo_mini_invert.png",
       "dependencies": []
     },
     "db/Templates/media/logo_mini_invert_icon.ico": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 26493,
       "exportedPath": "db/templates/media/logo_mini_invert_icon.ico",
       "dependencies": []
     },
     "db/Templates/media/splash.jpg": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 10974,
       "exportedPath": "db/templates/media/splash.jpg",
       "dependencies": []
     },
     "db/Templates/Charts_01.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1640,
       "exportedPath": "db/templates/charts_01.html",
       "dependencies": []
     },
     "db/Templates/Charts_02.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1078,
       "exportedPath": "db/templates/charts_02.html",
       "dependencies": []
     },
     "db/Templates/Charts_03.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1448,
       "exportedPath": "db/templates/charts_03.html",
       "dependencies": []
     },
     "db/Templates/Dataviewjs_01.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 2298,
       "exportedPath": "db/templates/dataviewjs_01.html",
       "dependencies": [
@@ -792,85 +793,85 @@
       ]
     },
     "db/Templates/Dataviewjs_02.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1645,
       "exportedPath": "db/templates/dataviewjs_02.html",
       "dependencies": []
     },
     "db/Templates/Dataviewjs_03.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 2002,
       "exportedPath": "db/templates/dataviewjs_03.html",
       "dependencies": []
     },
     "db/Templates/External_embed.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 68,
       "exportedPath": "db/templates/external_embed.html",
       "dependencies": []
     },
     "db/Templates/global_vars.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 479,
       "exportedPath": "db/templates/global_vars.html",
       "dependencies": []
     },
     "db/Templates/Heatmap.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 3266,
       "exportedPath": "db/templates/heatmap.html",
       "dependencies": []
     },
     "db/Templates/Shot_template.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 2315,
       "exportedPath": "db/templates/shot_template.html",
       "dependencies": []
     },
     "db/Templates/Task_template.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 2913,
       "exportedPath": "db/templates/task_template.html",
       "dependencies": []
     },
     "db/Templates/Version_template.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 2950,
       "exportedPath": "db/templates/version_template.html",
       "dependencies": []
     },
     "db/tests/media/Pasted image 20230814225334.png": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 585468,
       "exportedPath": "db/tests/media/pasted-image-20230814225334.png",
       "dependencies": []
     },
     "db/tests/media/Pasted image 20230814225752.png": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1419895,
       "exportedPath": "db/tests/media/pasted-image-20230814225752.png",
       "dependencies": []
     },
     "db/tests/_index.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1225,
       "exportedPath": "db/tests/_index.html",
       "dependencies": []
     },
     "db/tests/Gantt.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 3750,
       "exportedPath": "db/tests/gantt.html",
       "dependencies": []
     },
     "db/tests/Gantt_02.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 5809,
       "exportedPath": "db/tests/gantt_02.html",
       "dependencies": []
     },
     "db/tests/Ideas.canvas": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 5571,
       "exportedPath": "db/tests/ideas.html",
       "dependencies": [
@@ -879,13 +880,13 @@
       ]
     },
     "db/tests/inline_python.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 65,
       "exportedPath": "db/tests/inline_python.html",
       "dependencies": []
     },
     "db/tests/Shot.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1103,
       "exportedPath": "db/tests/shot.html",
       "dependencies": [
@@ -893,7 +894,7 @@
       ]
     },
     "db/tests/Shot_assets.canvas": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 3816,
       "exportedPath": "db/tests/shot_assets.html",
       "dependencies": [
@@ -901,87 +902,93 @@
       ]
     },
     "db/Database.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 52,
       "exportedPath": "db/database.html",
       "dependencies": []
     },
     "db/db.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1739,
       "exportedPath": "db/db.html",
       "dependencies": []
     },
     "db/desktop.ini": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 244,
       "exportedPath": "db/desktop.ini",
       "dependencies": []
     },
     "db/directus_schema.canvas": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 3170,
       "exportedPath": "db/directus_schema.html",
       "dependencies": []
     },
     "db/Kuma.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 101,
       "exportedPath": "db/kuma.html",
       "dependencies": []
     },
     "db/Pi-Hole.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 78,
       "exportedPath": "db/pi-hole.html",
       "dependencies": []
     },
     "db/show/ep001/sq001/sh001/shot_thumb.jpg": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 10974,
       "exportedPath": "db/show/ep001/sq001/sh001/shot_thumb.jpg",
       "dependencies": []
     },
     "db/show/ep001/sq001/sh002/shot_thumb.jpg": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 10974,
       "exportedPath": "db/show/ep001/sq001/sh002/shot_thumb.jpg",
       "dependencies": []
     },
     "db/templates/media/splash.jpg": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 10974,
       "exportedPath": "db/templates/media/splash.jpg",
       "dependencies": []
     },
     "db/templates/media/danger_logo_regular.jpg": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 85310,
       "exportedPath": "db/templates/media/danger_logo_regular.jpg",
       "dependencies": []
     },
     "db/tests/media/pasted-image-20230814225334.png": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 585468,
       "exportedPath": "db/tests/media/pasted-image-20230814225334.png",
       "dependencies": []
     },
     "db/tests/media/pasted-image-20230814225752.png": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 1419895,
       "exportedPath": "db/tests/media/pasted-image-20230814225752.png",
       "dependencies": []
     },
     "Unreal-Stuff/commands.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 436559,
       "exportedPath": "unreal-stuff/commands.html",
       "dependencies": []
     },
     "Unreal-Stuff/index.md": {
-      "modifiedTime": 1713005407080,
+      "modifiedTime": 1713005658076,
       "sourceSize": 0,
       "exportedPath": "unreal-stuff/index.html",
+      "dependencies": []
+    },
+    "Unreal-Stuff/Console_Variables.html": {
+      "modifiedTime": 1713005658076,
+      "sourceSize": 1184278,
+      "exportedPath": "unreal-stuff/console_variables.html",
       "dependencies": []
     }
   }
